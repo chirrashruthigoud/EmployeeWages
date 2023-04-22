@@ -7,7 +7,7 @@ namespace EmployeeWage
         public static void Main(string[] args)
         {
             EmployeeWageProblem empWage = new EmployeeWageProblem();
-            empWage.CheckEmployee();
+            empWage.EmployeeCheck();
         }
     }
 }
